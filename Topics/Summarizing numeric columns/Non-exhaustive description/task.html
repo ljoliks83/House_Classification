@@ -1,0 +1,7 @@
+<div class="step-text">
+<p></p><p>The <code class="language-python">DataFrame.describe()</code> method includes various summary statistics methods. Suppose we have a synthetic <code class="language-python">DataFrame</code> with <strong>only numeric</strong> values:</p><pre><code class="language-python">import pandas as pd
+import numpy as np
+
+values = np.random.randint(0, 100, size=(10, 2))
+df = pd.DataFrame(values, columns=['measure', 'error'])</code></pre><p>Call <code class="language-python">.describe()</code> on the <code class="language-python">DataFrame</code> we just created. Which summary statistics methods are not included in the <code class="language-python">.describe()</code> output?</p><details><summary>Hint</summary><div><p>Carefully review the <em>DataFrame.describe</em> section of the theory. Additionally, <code class="language-python">50%</code> in the <code class="language-python">.describe()</code> output corresponds to the median value. The <code class="language-python">.isna()</code>method detects the missing values.</p></div></details>
+</div>

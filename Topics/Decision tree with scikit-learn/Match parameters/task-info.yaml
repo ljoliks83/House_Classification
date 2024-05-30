@@ -1,0 +1,26 @@
+type: matching
+captions:
+  - '<code>max_depth</code> '
+  - <code>criterion</code>
+  - '<code>max_features</code> '
+  - '<code>min_samples_split</code> '
+  - none of the above
+options:
+  - the number of samples required for a split
+  - a function to measure the quality of a split
+  - ' the length of the longest path from the root to a leaf'
+  - the number of inputs to be considered by splitting
+  - the number of samples required to be at a leaf node
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16406#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4

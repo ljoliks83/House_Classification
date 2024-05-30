@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: a comma
+  - text: whitespaces
+  - text: an underscore
+  - text: periods
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6847#comment
+status: Solved
+record: -1
+local_check: false

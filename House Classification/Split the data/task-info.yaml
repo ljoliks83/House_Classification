@@ -1,0 +1,26 @@
+type: edu
+files:
+  - name: solution.py
+    visible: true
+    learner_created: false
+  - name: test/__init__.py
+    visible: false
+    learner_created: false
+  - name: test/tests.py
+    visible: false
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+  - name: train-test.py
+    visible: true
+    learner_created: true
+  - name: stage1_stats.py
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/31343#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 18 May 2024 10:45:44 UTC"
+record: 2

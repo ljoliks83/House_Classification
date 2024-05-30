@@ -1,0 +1,23 @@
+type: matching
+captions:
+  - <code>import super_module</code>
+  - <code>from super_module import super_function</code>
+  - <code>from module import *</code>
+  - <code>super_module.super_function()</code>
+options:
+  - Import all of the module.
+  - Import a single function from the module.
+  - Access the function loaded from the module.
+  - Import all names from the module.
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7180#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3

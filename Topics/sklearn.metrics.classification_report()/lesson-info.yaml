@@ -1,0 +1,11 @@
+content:
+  - Theory
+  - Use cases of apply function
+  - Change classes names
+  - classification_report and precision_recall_fscore_support
+  - Classification report classes display
+  - Classification report for one class
+  - Classification report on a subset of classes
+  - "Micro, macro and weighted metrics"
+  - Report for imbalanced dataset
+  - precision_recall_fscore_support function on binary classification

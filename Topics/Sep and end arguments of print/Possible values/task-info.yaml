@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: int(3.14)
+  - text: 999
+  - text: '" "'
+  - text: '"\n\n"'
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7454#comment
+status: Solved
+record: -1
+local_check: false

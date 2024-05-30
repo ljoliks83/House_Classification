@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Mutlilabel classification
+  - text: Binary classification
+  - text: Regression
+  - text: Multi-class classification
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/29340#comment
+status: Solved
+record: -1
+local_check: false

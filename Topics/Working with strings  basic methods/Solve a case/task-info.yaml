@@ -1,0 +1,20 @@
+type: matching
+captions:
+  - capitalize()
+  - title()
+  - swapcase()
+options:
+  - "\"eLEMENTARY, MY DEAR wATSON\""
+  - "\"Elementary, my dear watson\""
+  - "\"Elementary, My Dear Watson\""
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6852#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2

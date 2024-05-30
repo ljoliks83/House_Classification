@@ -1,0 +1,23 @@
+type: matching
+captions:
+  - macro
+  - micro
+  - weighted
+options:
+  - "This metric weighs each sample equally, regardless of the class, and gives more\
+  \ importance to the classes with a larger number of samples."
+  - This metric takes into account the size of each class and gives more importance
+    to the smaller classes.
+  - This metric treats each class equally and takes the average of the metric for each
+    class.
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/29343#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2

@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: <code>precision_recall_fscore_support()</code>  provides only average metrics
+  - text: "<code>precision_recall_fscore_support()</code> returns by default only precision,\
+    \ recall and support values"
+  - text: ' <code>classification_report()</code> cannot be transformed in a dictionary
+    format'
+  - text: support parameter is provided in <code>precision_recall_fscore_support()</code>
+      by default
+  - text: By default <code>classification_report()</code> provides the metrics results
+      in a text format
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/29345#comment
+status: Solved
+record: -1
+local_check: false

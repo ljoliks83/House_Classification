@@ -1,0 +1,48 @@
+type: edu
+files:
+  - name: solution.py
+    visible: true
+    learner_created: false
+  - name: test/__init__.py
+    visible: false
+    learner_created: false
+  - name: test/tests.py
+    visible: false
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+  - name: stage1_stats.py
+    visible: true
+    learner_created: true
+  - name: regression_calc.py
+    visible: true
+    learner_created: true
+  - name: train-test.py
+    visible: true
+    learner_created: true
+  - name: playground.py
+    visible: true
+    learner_created: true
+  - name: stage2_split_data.py
+    visible: true
+    learner_created: true
+  - name: stage3_onehotencoder.py
+    visible: true
+    learner_created: true
+  - name: stage4_ordinalencoder.py
+    visible: true
+    learner_created: true
+  - name: pg_classification_report.py
+    visible: true
+    learner_created: true
+  - name: stage5_targetencoder.py
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/31347#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Thu, 30 May 2024 13:07:11 UTC"
+record: -1

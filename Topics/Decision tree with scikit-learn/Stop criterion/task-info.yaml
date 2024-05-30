@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: max_depth
+  - text: criterion
+  - text: min_samples_split
+  - text: min_samples_leaf
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16407#comment
+status: Solved
+record: -1
+local_check: false

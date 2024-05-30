@@ -1,0 +1,17 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: TestClass
+  - text: Test_Class
+  - text: testclass
+  - text: test_class
+  - text: Test_class
+  - text: testClass
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6662#comment
+status: Solved
+record: -1
+local_check: false

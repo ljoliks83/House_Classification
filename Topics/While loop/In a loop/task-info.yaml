@@ -1,0 +1,23 @@
+type: matching
+captions:
+  - counter &lt;= 25
+  - counter * counter &lt; 60
+  - counter // 6 &lt; 3
+  - counter &gt; -3
+options:
+  - 6
+  - 3
+  - Infinite loop
+  - 9
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6538#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3

@@ -1,0 +1,17 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "<code>classification_report(true_labels, predicted_labels, target_names=['class_1',\_\
+    \ 'class_2', 'class_3', 'class_4'])</code>"
+  - text: "<code>classification_report(true_labels, predicted_labels, labels=['class_1',\_\
+    \ 'class_2', 'class_3', 'class_4'])</code>"
+  - text: "<code>classification_report(true_labels, predicted_labels, columns=['class_1',\_\
+    \ 'class_2', 'class_3', 'class_4'])</code>"
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/29342#comment
+status: Solved
+record: -1
+local_check: false

@@ -1,0 +1,25 @@
+content:
+  - Indexes
+  - For loop
+  - Comments
+  - Importing modules
+  - "Function, arguments and parameters"
+  - Class
+  - Methods and attributes
+  - Working with strings  basic methods
+  - Escape sequences
+  - Splitting strings and joining lists
+  - Dictionary
+  - Sep and end arguments of print
+  - Series
+  - DataFrame
+  - While loop
+  - Accessing data in a DataFrame
+  - .loc   .iloc
+  - Summarizing numeric columns
+  - String formatting
+  - Summarizing categorical columns
+  - Working with missing values
+  - Training a model with scikit-learn
+  - Decision tree with scikit-learn
+  - sklearn.metrics.classification_report()

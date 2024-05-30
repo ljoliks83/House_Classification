@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: <code>.del()</code>
+  - text: <code>.delete()</code>
+  - text: <code>.drop()</code>
+  - text: <code>.remove()</code>
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10424#comment
+status: Solved
+record: -1
+local_check: false

@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: "<pre><code class=\"python\">my_dict = {3.14: 'pi_key'}</code></pre>"
+  - text: "<pre><code class=\"python\">my_dict = {(1,2,3): 'tuple_key'}</code></pre>"
+  - text: "<pre><code class=\"python\">my_dict = {frozenset(['a','b']): 'frozenset_key'}</code></pre>"
+  - text: "<pre><code class=\"python\">my_dict = {['list']: 'list_key'}</code></pre>"
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/47184#comment
+status: Unchecked
+record: -1
+local_check: false

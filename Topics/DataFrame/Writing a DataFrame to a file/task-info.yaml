@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "<code>books.to_csv('books.csv', columns=['Title'])</code>"
+  - text: "<code>books.to_csv('books.csv', index=False, columns=['Year', 'Title'])</code>"
+  - text: "<code>books.to_csv('books.csv', columns=['Year', 'Title'])</code>"
+  - text: "<code>books.to_csv('books.csv', index=True)</code>"
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10937#comment
+status: Solved
+record: -1
+local_check: false

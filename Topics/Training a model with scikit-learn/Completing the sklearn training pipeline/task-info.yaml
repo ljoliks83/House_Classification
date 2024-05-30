@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "5. Train the model using X_train, y_train, 6. Predict on the model using\
+    \ X_test, 7. Score the model using y_test and the predicted values"
+  - text: "5. Train the model using X_train, y_train, 6. Score the model using y_test,\
+    \ 7. Predict on the model using X_test"
+  - text: "5. Predict on the model using X_test, 6. Train the model using X_train, y_train,\
+    \ 7. Score the model using y_test"
+  - text: "5. Score the model using y_test, 6. Train the model using X_train, y_train,\
+    \ 7. Predict on the model using X_test"
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/34253#comment
+status: Solved
+record: -1
+local_check: false

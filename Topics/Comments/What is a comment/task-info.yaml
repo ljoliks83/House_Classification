@@ -1,0 +1,17 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "{ I must be the comment you are looking for }"
+  - text: // This one may be the right choice
+  - text: '# It is unlikely that I am a comment'
+  - text: "/* Perhaps, this is your comment */"
+  - text: '&lt;!-- The most Pythonic comment of all time --&gt;'
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6795#comment
+status: Solved
+record: -1
+custom_name: What is a comment?
+local_check: false
